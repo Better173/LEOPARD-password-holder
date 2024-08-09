@@ -10,13 +10,17 @@ To get started with LEOPARD, follow these simple steps:
     ```bash
     git clone https://github.com/Better173/LEOPARD-password-holder.git
     ```
-
 2. Navigate into the project directory:
+    ```bash
+    cd LEOPARD-password-holder
+    ```
+
+3. Navigate into the folder directory:
     ```bash
     cd pass_holder
     ```
 
-3. Run the script:
+4. Run the script:
     ```bash
     python3 pass_holder.py
     ```
