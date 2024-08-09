@@ -1,6 +1,7 @@
 # LEOPARD-password-holder
 LEOPARD is a Linux terminal Python script for safely storing passwords. It uses Base64 encoding for data protection, offering a simple, command-line interface to manage your secrets securely. Ideal for easy and secure password management.
-Sure! Here's a polished and impressive description for your Python script:
+
+## WARNING: IF YOU GOING TO ENTER THE WRONG PASSWOR/SEED PHRASE TO ACCESS DATA, YOU GONNA LOSS ALL YOUR PASSWORD!
 
 ## Installation and Usage
 
