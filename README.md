@@ -27,9 +27,9 @@ To get started with LEOPARD, follow these simple steps:
 
 **Key Features:**
 
-- **End-to-End Encryption:** Utilizing advanced Base64 encoding, the Password Vault ensures your data remains confidential. While Base64 provides a layer of obfuscation, it is recommended to use this script alongside additional encryption methods for maximum security.
+- **End-to-End Encryption:** Utilizing advanced Base64 encoding, the Password Vault ensures your data remains confidential.
 
-- **User-Friendly Interface:** Designed with simplicity in mind, our script provides an intuitive command-line interface, making it accessible even to those new to Linux.
+- **User-Friendly Interface:** Designed with simplicity in mind, my script provides an intuitive command-line interface, making it accessible even to those new to Linux.
 
 - **Safe Storage:** All your passwords and sensitive data are securely encoded and stored, minimizing the risk of unauthorized access.
 
