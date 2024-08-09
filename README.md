@@ -7,21 +7,29 @@ LEOPARD is a Linux terminal Python script for safely storing passwords. It uses 
 
 To get started with LEOPARD, follow these simple steps:
 
-1. Clone the repository:
+1. Get started:
+   ```bash
+   sudo apt install python3 python3-pip
+   ```
+   ```bash
+   pip3 install cryptography
+   ```
+
+2. Clone the repository:
     ```bash
     git clone https://github.com/Better173/LEOPARD-password-holder.git
     ```
-2. Navigate into the project directory:
+3. Navigate into the project directory:
     ```bash
     cd LEOPARD-password-holder
     ```
 
-3. Navigate into the folder directory:
+4. Navigate into the folder directory:
     ```bash
     cd pass_holder
     ```
 
-4. Run the script:
+5. Run the script:
     ```bash
     python3 pass_holder.py
     ```
